@@ -1,0 +1,21 @@
+* {
+    font-family: arial;
+}
+
+body {
+    background-color: #FEF9EF;
+
+}
+
+h4, h5 {
+    text-align: center;
+}
+
+.col-md-12 {
+    display: flex;
+    flex-wrap: wrap;
+    align-content:space-around;
+    justify-content: center;
+    border: 2px solid black;
+
+}
