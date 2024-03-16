@@ -1,1 +1,3 @@
-# html-css-3-page-assignment
+## html-css-3-page-assignment
+
+The Taco Town website is a simple yet inviting online platform that introduces visitors to their restaurant. Mainly using HTML and CSS it is comprised of three webpages that are linked together using the navigation bar on top. The home page contains a Bootstrap carousel with high-quality photos of mouth-drooling tacos and Mexican dishes. Toward the bottom of the home page is a snippet of where the “about us” information would be included. The menu webpage is constructed using a bootstrap table altered to a simple food menu. Lastly, the contact page is purely a page with a form for customers to input their information on whether they would like to get ahold of the restaurant.
